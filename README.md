@@ -1,2 +1,2 @@
 # dreamhome
-装修 wiki
+[装修 wiki](https://github.com/yaoyuandev/dreamhome/wiki)
